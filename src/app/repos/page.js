@@ -1,6 +1,6 @@
-`use client`;
-import { Grid, Column } from '@carbon/react';
+'use client';
 import RepoTable from './RepoTable';
+import { Grid, Column } from '@carbon/react';
 
 const headers = [
   {
